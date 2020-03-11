@@ -6,12 +6,52 @@
 body, html {
     height: 100%;
   }
-  .bg {
-    background-image: url("../img/markus-spiske-Skf7HxARcoc-unsplash.jpg");
-  
+
+.bg {
+    background-image: url("../img/ben-kolde-bs2Ba7t69mM-unsplash.jpg");
     height: 100%;
-  
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+.card-image1 {
+    background-image: url("../img/christopher-gower-m_HRfLhgABo-unsplash.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.card-image2 {
+    background-image: url("../img/clint-patterson-dYEuFB8KQJk-unsplash.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.card-image3 {
+    background-image: url("../img/markus-spiske-Skf7HxARcoc-unsplash.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.card-image4 {
+    background-image: url("../img/nate-grant-QQ9LainS6tI-unsplash.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.card-image5 {
+    background-image: url("../img/adi-goldstein-mDinBvq1Sfg-unsplash.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+   
