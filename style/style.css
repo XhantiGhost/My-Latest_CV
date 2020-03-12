@@ -3,14 +3,42 @@
     padding: 0px;
 }
 
-body, html {
+body, html, header,
+.view  {
     height: 100%;
   }
 
+p {
+   font-family: 'Baloo Tamma 2', cursive;;
+}
+
+h1 {
+  letter-spacing: 8px;
+  color: black;
+}
+
+h5 {
+  letter-spacing: 3px;
+  color: black;
+}
+
+.hr-light {
+  border-top: 3px solid #fff;
+  width: 80px;
+}
+
+.top-nav-collapse {
+  background-color: #78909c !important;
+}
+
+.navbar:not(.top-nav-collapse) {
+  background: transparent !important;
+}
+
 .bg {
-    background-image: url("../img/ben-kolde-bs2Ba7t69mM-unsplash.jpg");
+    background-image: url("../img/ben.jpg");
     height: 100%;
-    background-position: center;
+    background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
   }
